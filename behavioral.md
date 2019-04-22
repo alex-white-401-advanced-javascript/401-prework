@@ -1,0 +1,3 @@
+What Is Your Greatest Accomplishment?
+I have many noteworthy accomplishments both in my education and my work experience. One of the most notable was the planning, creation, and delivery of a mobile app while I was deployed overseas. I was there at a time when there wasn't a lot of support for service members and their family when it came to understanding the local culture and exploring their surroundings. I was the head of a team of 4 devs and 5 other people as I had the most experience with mobile design. We were able to deliver the app well within the expected time of 7 months and it is still in use to this day.
+
